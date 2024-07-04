@@ -2769,6 +2769,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C27408"
+			(at 68.58 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "68"
 			(uuid "530537c6-30e1-46da-beb9-9ddf716d6d0e")
 		)
@@ -3254,6 +3263,15 @@
 			)
 		)
 		(property "Description" "Spartan 6 LX 9 XC6SLX9-TQG144"
+			(at 212.09 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C27408"
 			(at 212.09 156.21 0)
 			(effects
 				(font
@@ -3755,6 +3773,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC" "C27408"
+			(at 83.82 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "68"
 			(uuid "530537c6-30e1-46da-beb9-9ddf716d6d0e")
 		)
@@ -4240,6 +4267,15 @@
 			)
 		)
 		(property "Description" "Spartan 6 LX 9 XC6SLX9-TQG144"
+			(at 231.14 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC" "C27408"
 			(at 231.14 67.31 0)
 			(effects
 				(font
